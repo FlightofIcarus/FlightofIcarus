@@ -1,6 +1,6 @@
 ## Hi, i'm Icaro, an new travaler in dev universe! 👨🏿‍🚀👨🏿‍💻
 
-- I’m currently learning web dev, and seek for more knowledge
+- I’m currently learning web development, and seek for more knowledge
 
 ### For now, this is the languages and frameworks that i know..
 
