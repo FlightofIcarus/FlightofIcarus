@@ -1,6 +1,6 @@
 ## Hi, i'm Icaro, an new travaler in dev universe! 👨🏿‍🚀👨🏿‍💻
 
-- I’m currently learning web development, and seek for more knowledge
+<img align="center" alt="icaro-octocat" height="120" width="100" src="https://github.com/FlightofIcarus/FlightofIcarus/blob/main/octocat-1676324115584.png">- I’m currently learning web development, and seek for more knowledge
 
 ### For now, this is the languages and frameworks that i know..
 
