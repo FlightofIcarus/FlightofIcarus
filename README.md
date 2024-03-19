@@ -1,6 +1,6 @@
 ## Hi, i'm Icaro 👨🏿‍🚀👨🏿‍💻
 
-[<img align="center" alt="icaro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">](linkedin.com/in/santos-icaro/)  [<img align="center" alt="icaro-instagram" height="30" width="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/instagram/instagram.svg">](https://www.instagram.com/dev.icaro_s/)
+[<img align="center" alt="icaro-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">]([linkedin.com/in/santos-icaro/](https://www.linkedin.com/in/santos-icaro/))  [<img align="center" alt="icaro-instagram" height="30" width="40" src="[https://github.com/dheereshagrwal/colored-icons/blob/master/icons/instagram/instagram.svg](https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/instagram/instagram.svg)">](https://www.instagram.com/dev.icaro_s/)
 
 With over 12 years of experience in retail management, I am a professional who brings a unique perspective to the world of technology. It gave me a solid foundation in good business practices and a deep understanding of customer needs.
 
