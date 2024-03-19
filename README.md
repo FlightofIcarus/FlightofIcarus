@@ -1,6 +1,6 @@
 ## Hi, i'm Icaro 👨🏿‍🚀👨🏿‍💻
 
-[LinkedIn]([linkedin.com/in/santos-icaro/](https://www.linkedin.com/in/santos-icaro/))  [Instagram](https://www.instagram.com/dev.icaro_s/)
+[LinkedIn](https://www.linkedin.com/in/santos-icaro/)  [Instagram](https://www.instagram.com/dev.icaro_s/)
 
 With over 12 years of experience in retail management, I am a professional who brings a unique perspective to the world of technology. It gave me a solid foundation in good business practices and a deep understanding of customer needs.
 
