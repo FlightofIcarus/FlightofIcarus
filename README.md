@@ -1,6 +1,6 @@
 ## Hi, i'm Icaro 👨🏿‍🚀👨🏿‍💻
 
-[LinkedIn](https://www.linkedin.com/in/santos-icaro/)  [Instagram](https://www.instagram.com/dev.icaro_s/)
+[LinkedIn](https://www.linkedin.com/in/santos-icaro/)  [Instagram](https://www.instagram.com/dev.icaro_s/) [IT Certifications](https://cursos.alura.com.br/user/victor-icarus/fullCertificate/d723038c83d5061746dc8066a486a164)
 
 With over 12 years of experience in retail management, I am a professional who brings a unique perspective to the world of technology. It gave me a solid foundation in good business practices and a deep understanding of customer needs.
 
